@@ -2,6 +2,7 @@
 
 include config.mk
 
+PREFIX = /usr
 SRC = ${NAME}.c
 OBJ = ${SRC:.c=.o}
 
